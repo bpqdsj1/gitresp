@@ -1,6 +1,10 @@
 sdad
+<<<<<<< HEAD
 asdajh
 asdjhajk
 啊是的噶客家话
 多少积分回馈
 
+=======
+增加的内容 by baby
+>>>>>>> branch01
